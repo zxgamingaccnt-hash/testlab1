@@ -1,0 +1,6 @@
+[submodule "markdown-here"]
+	path = markdown-here
+	url = https://github.com/adam-p/markdown-here.git
+[submodule "Lab1_submodule"]
+	path = Lab1_submodule
+	url = https://github.com/ET0735-DevOps-AIoT/Lab1_submodule.git
